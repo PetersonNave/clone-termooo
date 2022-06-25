@@ -16399,10 +16399,10 @@ var Wf,
     "cinto",
     "matos",
     "safra",
-    "algoz",
+    "algoz", 
     "letra",
     "dogma",
-    "pesca",
+    "pesca",          
     "linho",
     "tchau",
     "graxa",
@@ -21427,12 +21427,12 @@ function Cx(a) {
     );
   });
 var Nx = [
-    "Genial",
-    "Fantástico",
-    "Extraordinário",
-    "Fenomenal",
-    "Impressionante",
-    "Ufa!",
+    "Te amo Princesa <3",
+    "Manu = amor da minha vida",
+    "Linda = Manu",
+    "Joquinha <3",
+    "Pet & Manu e Manu & Pet",
+    "Lindaaaaaa!",
   ],
   kx = {};
 function Fx(a, e, o, r) {
