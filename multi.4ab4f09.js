@@ -2449,7 +2449,7 @@ var xc = (function () {
     {
       4: ["quatro", "ManuTermo", 9],
       2: ["duo", "Manu&Pet :)", 7],
-      1: ["termo", "Te-Amo-Mô <3", 6],
+      1: ["termo", "Te-Amo-Mô", 6],
     }[xc],
     3
   ),
